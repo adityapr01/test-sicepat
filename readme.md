@@ -27,3 +27,7 @@ link video :
 3) add-cart : https://www.loom.com/share/b7b83b4b1317420eb1330bd7c05c3aa7
 
 Untuk automation testing menggunakan playwright typescript, untuk melakukan automation testing
+
+3) Buatlah script automation menggunakan Karate (Karatelabs) untuk URL
+https://jsonplaceholder.typicode.com/posts dengan ketentuan passed seperti dibawah ini
+API testing : https://documenter.getpostman.com/view/6433005/2s935vkf4k#intro <<report>>
