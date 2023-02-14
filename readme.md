@@ -30,4 +30,4 @@ Untuk automation testing menggunakan playwright typescript, untuk melakukan auto
 
 3) Buatlah script automation menggunakan Karate (Karatelabs) untuk URL
 https://jsonplaceholder.typicode.com/posts dengan ketentuan passed seperti dibawah ini
-API testing : https://documenter.getpostman.com/view/6433005/2s935vkf4k#intro <<report>>
+API testing : https://documenter.getpostman.com/view/6433005/2s935vkf4k#intro <<report html>>
